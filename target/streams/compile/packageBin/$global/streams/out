@@ -1,0 +1,35 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging C:\Users\viyadav\Desktop\Galactus_Docs\GTV_test\target\scala-2.11\test-gtv_2.11-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	personified.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\viyadav\Desktop\Galactus_Docs\GTV_test\target\scala-2.11\classes\personified.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	spark_test.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\viyadav\Desktop\Galactus_Docs\GTV_test\target\scala-2.11\classes\spark_test.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	spark_test_hdfs$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\viyadav\Desktop\Galactus_Docs\GTV_test\target\scala-2.11\classes\spark_test_hdfs$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	spark_test$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\viyadav\Desktop\Galactus_Docs\GTV_test\target\scala-2.11\classes\spark_test$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	spark_xmedia.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\viyadav\Desktop\Galactus_Docs\GTV_test\target\scala-2.11\classes\spark_xmedia.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	spark_test_hdfs.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\viyadav\Desktop\Galactus_Docs\GTV_test\target\scala-2.11\classes\spark_test_hdfs.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	personification.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\viyadav\Desktop\Galactus_Docs\GTV_test\target\scala-2.11\classes\personification.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hello_world$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\viyadav\Desktop\Galactus_Docs\GTV_test\target\scala-2.11\classes\hello_world$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	person_level.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\viyadav\Desktop\Galactus_Docs\GTV_test\target\scala-2.11\classes\person_level.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hello_world.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\viyadav\Desktop\Galactus_Docs\GTV_test\target\scala-2.11\classes\hello_world.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	spark_xmedia$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\viyadav\Desktop\Galactus_Docs\GTV_test\target\scala-2.11\classes\spark_xmedia$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SVE.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\viyadav\Desktop\Galactus_Docs\GTV_test\target\scala-2.11\classes\SVE.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TVE.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\viyadav\Desktop\Galactus_Docs\GTV_test\target\scala-2.11\classes\TVE.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	personified$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\viyadav\Desktop\Galactus_Docs\GTV_test\target\scala-2.11\classes\personified$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	person_level$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\viyadav\Desktop\Galactus_Docs\GTV_test\target\scala-2.11\classes\person_level$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	personification$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\viyadav\Desktop\Galactus_Docs\GTV_test\target\scala-2.11\classes\personification$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
